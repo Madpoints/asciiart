@@ -1,4 +1,4 @@
 
 asciiart
 
-![alt tag](./images/asciiart.PNG)
+![alt text](./images/asciiart.PNG)
